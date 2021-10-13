@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<roomList>
+    <Room name="AC">
+        <Online-Users>
+            <User>Juan</User>
+            <User>Pedro</User>
+        </Online-Users>
+        <mensajes>
+            <message fecha="2021-10-05T17:40:54.338454300" usuario="Juan">Hola</message>
+            <message fecha="2021-10-05T17:40:54.341455400" usuario="Pedro">Mundo</message>
+            <message fecha="2021-10-13T19:40:54.099596700" usuario="Juanito">hola mundo</message>
+        </mensajes>
+    </Room>
+    <Room name="Desarrolo Interfazes">
+        <Online-Users>
+            <User>Juan</User>
+            <User>Jose</User>
+        </Online-Users>
+        <mensajes>
+            <message fecha="2021-10-11T17:40:54.338454300" usuario="Jose">Hola</message>
+        </mensajes>
+    </Room>
+</roomList>
